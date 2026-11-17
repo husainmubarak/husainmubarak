@@ -110,12 +110,12 @@ A few projects and experiments from my GitHub:
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=husainmubarak&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api?username=husainmubarak&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight"
     height="165"
     alt="Husain's GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainmubarak&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=husainmubarak&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
     height="165"
     alt="Most used programming languages"
   />
